@@ -34,15 +34,16 @@ const App = () => {
           <TabList className="tabList">
             <div className='Tabs'>
               <Tab className="Tab1">Assets</Tab>
-              <Tab className="Tab1">Dashboard</Tab>
-              <Tab className="Tab1">Timeline</Tab>
-              <Tab className="Tab1">Accounting</Tab>
-              <Tab className="Tab1">Pending Task</Tab>
+              <Tab className="Tab1">DASHBOARD</Tab>
+         
             </div>
           </TabList>
           <div className='Content'>
             <TabPanel>              
              
+            </TabPanel>
+            <TabPanel>              
+             Trescope
             </TabPanel>
 
           </div>
